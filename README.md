@@ -1,7 +1,7 @@
 # miniature-octo-computing-machine
 Logbook
 
-07.11.2024 3,5 Cybersecurity 4,5, Read and done Quiz and final exam
+11.11.2024 2,5 SQL Injection, Read and done labs
 
 | Date         | Used hours     | Subject(s)    | Outcome      |                           
 | :---         |     :---:      |          ---: |         ---: |
@@ -10,4 +10,5 @@ Logbook
 | 05.11.2024   | 1.5  |Cybersecurity 2 |Read and done Quiz     |
 | 06.11.2024   | 1.5  |Cybersecurity 3 |Read and done Quiz     |
 | 07.11.2024   | 3,5  |Cybersecurity 4,5 |Read and done Quiz and final exam     |
+| 11.11.2024   | 2,5  |SQL Injection |Read and done labs  |
 
