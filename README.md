@@ -1,7 +1,7 @@
 # miniature-octo-computing-machine
 Logbook
 
-11.11.2024 2,5 SQL Injection, Read and done labs
+11.11.2024 2,5h, SQL Injection, Read and done labs
 
 | Date         | Used hours     | Subject(s)    | Outcome      |                           
 | :---         |     :---:      |          ---: |         ---: |
